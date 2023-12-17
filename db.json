@@ -6,7 +6,7 @@
             "isNew": true,
             "oldPrice": "699",
             "price": 570,
-            "description": "The Typographic Jacket is a contemporary and stylish outerwear piece designed for fashion-forward individuals. Crafted from high-quality black fabric, this jacket boasts a sleek, minimalist appearance that effortlessly complements various styles. This versatile jacket is a perfect addition to any wardrobe, suitable for both casual and semi-formal occasions. Pair it with jeans for a casual day out or dress it up with trousers for a more polished ensemble.",
+            "description": "The Typographic Jacket is a contemporary and stylish outerwear piece designed for fashion-forward individuals. Crafted from high-quality black fabric, this jacket boasts a sleek, minimalist appearance that effortlessly complements various styles.",
             "category": "Unisex",
             "image": "https://images.bestsellerclothing.in/data/JJ/23-oct-2023/235285101_g1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto",
             "rating": 4,
@@ -18,7 +18,7 @@
             "isNew": true,
             "oldPrice": "740",
             "price": 690,
-            "description": "The Corduroy jacket often features a classic, timeless design. It might have a pointed collar, button-up or zippered front closure, and functional pockets, combining practicality with a fashionable look. Some variations may include additional details like contrasting stitching, adjustable cuffs, or decorative buttons.",
+            "description": "The Corduroy jacket often features a classic, timeless design. It might have a pointed collar, button-up or zippered front closure, and functional pockets, combining practicality with a fashionable look.",
             "category": "Men",
             "image": "https://media.zenfs.com/en/spy_453/4eb07815aba791708242443d4190bf33",
             "rating": 3.7,
@@ -30,7 +30,7 @@
             "isNew": true,
             "oldPrice": "650",
             "price": 550,
-            "description": "The Y2K Star Jeans are a fashion-forward and stylish addition to any wardrobe, drawing inspiration from the iconic fashion trends of the early 2000s. These jeans encapsulate the essence of the Y2K era with their retro vibe and modern appeal. Crafted from high-quality denim, these jeans feature a flattering high-rise waist and a sleek, straight-leg silhouette that accentuates your figure while providing comfort and flexibility for everyday wear. The vintage-inspired star embroidery on the pockets and sides adds a unique and eye-catching detail, making these jeans stand out from the crowd.",
+            "description": "The Y2K Star Jeans are a fashion-forward and stylish addition to any wardrobe, drawing inspiration from the iconic fashion trends of the early 2000s. These jeans encapsulate the essence of the Y2K era with their retro vibe and modern appeal.",
             "category": "Women",
             "image": "https://img.kwcdn.com/product/temu-avi/image-crop/a980980b-1fa8-4870-9893-b3da73b15bfc.jpg?imageView2/2/w/800/q/70/format/webp",
             "rating": 4.3,
@@ -42,7 +42,7 @@
             "isNew": true,
             "oldPrice": "400",
             "price": 320,
-            "description": "Made from high-quality, breathable fabric, this top ensures a comfortable wear throughout the day. Its slim-fit design creates a streamlined look that complements various body types. The graphic element adds a touch of personality and style, making it a versatile piece suitable for casual outings or even a more dressed-up occasion when paired with complementary accessories.",
+            "description": "Made from high-quality, breathable fabric, this top ensures a comfortable wear throughout the day. Its slim-fit design creates a streamlined look that complements various body types.",
             "category": "Women",
             "image": "https://images-cdn.ubuy.co.in/634d2b0377721a29256697eb-women-y2k-wing-rhinestone-graphic.jpg",
             "rating": 4,
@@ -54,7 +54,7 @@
             "isNew": true,
             "oldPrice": "700",
             "price": 620,
-            "description": "Constructed from high-quality denim, these baggy jeans feature a faded wash that adds character and style. The relaxed silhouette offers ample room for movement, ensuring both comfort and a trendy, laid-back look. The subtle distressing and fading details lend a lived-in appeal, making each pair unique.",
+            "description": "Constructed from high-quality denim, these baggy jeans feature a faded wash that adds character and style. The relaxed silhouette offers ample room for movement, ensuring both comfort and a trendy, laid-back look.",
             "category": "Men",
             "image": "https://m.media-amazon.com/images/I/61h0H-5dnBL._AC_UF894,1000_QL80_.jpg",
             "rating": 3.9,
@@ -66,7 +66,7 @@
             "isNew": true,
             "oldPrice": "650",
             "price": 520,
-            "description": "Introducing our sleek and sophisticated Black Leather Pants for women—a timeless wardrobe staple that effortlessly combines style and comfort. Crafted with precision from high-quality genuine leather, these pants are designed to elevate your fashion quotient while providing a luxurious feel..",
+            "description": "Introducing our sleek and sophisticated Black Leather Pants for women—a timeless wardrobe staple that effortlessly combines style and comfort.",
             "category": "Women",
             "image": "https://i0.wp.com/www.theunstitchd.com/women/wp-content/uploads/2021/08/Cool-Crop-Top-Leather-Pants-Outfit-for-Women.jpg",
             "rating": 4.5,
@@ -110,18 +110,6 @@
         },
         {
             "_id": 10,
-            "title": "Elegant Red Dress",
-            "isNew": false,
-            "oldPrice": "799",
-            "price": 699,
-            "description": "A stunning red dress that adds a touch of elegance to any occasion. Made from high-quality materials for comfort and style.",
-            "category": "Women",
-            "image": "https://wyshlist.io/cdn/shop/files/RD.webp?v=1694421434&width=1100",
-            "rating": 4,
-            "quantity": 1
-        },
-        {
-            "_id": 11,
             "title": "Chic Leather Crossbody Bag",
             "isNew": false,
             "oldPrice": "699",
@@ -133,7 +121,7 @@
             "quantity": 1
         },
         {
-            "_id": 12,
+            "_id": 11,
             "title": "Black faux fur bucket hat",
             "isNew": true,
             "oldPrice": "300",
@@ -145,19 +133,7 @@
             "quantity": 1
         },
         {
-            "_id": 13,
-            "title": "Men's Casual Denim Shirt",
-            "isNew": true,
-            "oldPrice": "1999",
-            "price": 1299,
-            "description": "Stay stylish and comfortable with this casual denim shirt for men. Perfect for a laid-back yet fashionable look.",
-            "category": "Men",
-            "image": "https://thehouseofrare.com/cdn/shop/files/ARDEE-LIGHT-BLUE0707HERO_765x.jpg?v=1694691652",
-            "rating": 4.7,
-            "quantity": 1
-        },
-        {
-            "_id": 14,
+            "_id": 12,
             "title": "Classy black formal shirt ",
             "isNew": true,
             "oldPrice": "500",
@@ -169,7 +145,7 @@
             "quantity": 1
         },
         {
-            "_id": 15,
+            "_id": 13,
             "title": "Men's Classic Leather Boots",
             "isNew": true,
             "oldPrice": "1845",
@@ -181,7 +157,7 @@
             "quantity": 1
         },
         {
-            "_id": 16,
+            "_id": 14,
             "title": "Vintage Lace-Up Corset",
             "isNew": true,
             "oldPrice": "799",
@@ -193,19 +169,7 @@
             "quantity": 1
         },
         {
-            "_id": 17,
-            "title": "Casual Black and white Flannel shirt",
-            "isNew": true,
-            "oldPrice": "680",
-            "price": 544,
-            "description": "Unleash your inner fashion rebel with this versatile shirt that effortlessly marries comfort and cool. Dress to impress in the classic black and white checkered pattern, a timeless combination that never goes out of style.",
-            "category": "Men",
-            "image": "https://i.pinimg.com/originals/68/20/8d/68208d4f487d5be6e06fe78ffc21177b.jpg",
-            "rating": 4.4,
-            "quantity": 1
-        },
-        {
-            "_id": 18,
+            "_id": 15,
             "title": "Classic Grey Suit",
             "isNew": true,
             "oldPrice": "2500",
@@ -214,30 +178,6 @@
             "category": "Men",
             "image": "https://i.insider.com/5b75d03bdcee305b298b45c6?width=1000&format=jpeg&auto=webp",
             "rating": 4.9,
-            "quantity": 1
-        },
-        {
-            "_id": 19,
-            "title": "Elegant Red A-Line Skirt",
-            "isNew": true,
-            "oldPrice": "999",
-            "price": "799",
-            "description": "Add a pop of color to your wardrobe with this elegant red A-line skirt. The flattering design and vibrant hue make it a versatile choice for various occasions.",
-            "category": "Women",
-            "image": "https://img101.urbanic.com/v1/goods-pic/30a9241e3a204491a1433420f3dffc74UR_w1440_q90.webp",
-            "rating": 4.5,
-            "quantity": 1
-        },
-        {
-            "_id": 20,
-            "title": "Casual Brown sleeveless sweater vest",
-            "isNew": true,
-            "oldPrice": "650",
-            "price": "455",
-            "description": "Elevate your fashion game with this cozy yet fashion-forward piece that's perfect for layering and making a statement. Wrap yourself in comfort with the soft and breathable knit fabric, providing a touch of warmth without compromising on style",
-            "category": "Women",
-            "image": "https://i.pinimg.com/originals/cd/47/57/cd4757ab80cff578f45cd2dd1c606b29.jpg",
-            "rating": 4.7,
             "quantity": 1
         }
     ],
@@ -248,7 +188,7 @@
             "isNew": true,
             "oldPrice": "650",
             "price": 550,
-            "description": "The Y2K Star Jeans are a fashion-forward and stylish addition to any wardrobe, drawing inspiration from the iconic fashion trends of the early 2000s. These jeans encapsulate the essence of the Y2K era with their retro vibe and modern appeal. Crafted from high-quality denim, these jeans feature a flattering high-rise waist and a sleek, straight-leg silhouette that accentuates your figure while providing comfort and flexibility for everyday wear. The vintage-inspired star embroidery on the pockets and sides adds a unique and eye-catching detail, making these jeans stand out from the crowd.",
+            "description": "The Y2K Star Jeans are a fashion-forward and stylish addition to any wardrobe, drawing inspiration from the iconic fashion trends of the early 2000s. These jeans encapsulate the essence of the Y2K era with their retro vibe and modern appeal.",
             "category": "Women",
             "image": "https://img.kwcdn.com/product/temu-avi/image-crop/a980980b-1fa8-4870-9893-b3da73b15bfc.jpg?imageView2/2/w/800/q/70/format/webp",
             "rating": 4.3,
@@ -261,21 +201,21 @@
             "oldPrice": "650",
             "price": 520,
             "description": "Introducing our sleek and sophisticated Black Leather Pants for women—a timeless wardrobe staple that effortlessly combines style and comfort. Crafted with precision from high-quality genuine leather, these pants are designed to elevate your fashion quotient while providing a luxurious feel..",
-            "category": "Qomen",
+            "category": "Women",
             "image": "https://i0.wp.com/www.theunstitchd.com/women/wp-content/uploads/2021/08/Cool-Crop-Top-Leather-Pants-Outfit-for-Women.jpg",
             "rating": 4.5,
             "quantity": 1
         },
         {
-            "_id": 20,
-            "title": "Casual Brown sleeveless sweater vest",
+            "_id": 15,
+            "title": "Classic Grey Suit",
             "isNew": true,
-            "oldPrice": "650",
-            "price": "455",
-            "description": "Elevate your fashion game with this cozy yet fashion-forward piece that's perfect for layering and making a statement. Wrap yourself in comfort with the soft and breathable knit fabric, providing a touch of warmth without compromising on style",
-            "category": "Women",
-            "image": "https://i.pinimg.com/originals/cd/47/57/cd4757ab80cff578f45cd2dd1c606b29.jpg",
-            "rating": 4.7,
+            "oldPrice": "2500",
+            "price": 1999,
+            "description": "Make a statement with this classic grey suit for men. Tailored for a sharp and sophisticated look, it's perfect for formal occasions and business events.",
+            "category": "Men",
+            "image": "https://i.insider.com/5b75d03bdcee305b298b45c6?width=1000&format=jpeg&auto=webp",
+            "rating": 4.9,
             "quantity": 1
         }
     ]
