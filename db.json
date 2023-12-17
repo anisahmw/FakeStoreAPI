@@ -146,18 +146,6 @@
         },
         {
             "_id": 13,
-            "title": "Vintage Lace-Up Corset",
-            "isNew": true,
-            "oldPrice": "799",
-            "price": 499,
-            "description": "Achieve a classic and elegant look with this vintage lace-up corset. Crafted with intricate details and designed for a perfect fit, it adds a touch of glamour to any outfit.",
-            "category": "Women",
-            "image": "https://littleboxindia.com/cdn/shop/products/f06eb8c9386c1e7de8dbf10b7dca6a0c_540x.jpg?v=1684750249",
-            "rating": 4.6,
-            "quantity": 1
-        },
-        {
-            "_id": 14,
             "title": "Classic Grey Suit",
             "isNew": true,
             "oldPrice": "2500",
@@ -195,7 +183,7 @@
             "quantity": 1
         },
         {
-            "_id": 14,
+            "_id": 13,
             "title": "Classic Grey Suit",
             "isNew": true,
             "oldPrice": "2500",
