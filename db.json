@@ -171,18 +171,6 @@
             "quantity": 1
         },
         {
-            "_id": 5,
-            "title": "Chic Black leather pants ",
-            "isNew": true,
-            "oldPrice": "650",
-            "price": 520,
-            "description": "Introducing our sleek and sophisticated Black Leather Pants for women—a timeless wardrobe staple that effortlessly combines style and comfort. Crafted with precision from high-quality genuine leather, these pants are designed to elevate your fashion quotient while providing a luxurious feel..",
-            "category": "Women",
-            "image": "https://i0.wp.com/www.theunstitchd.com/women/wp-content/uploads/2021/08/Cool-Crop-Top-Leather-Pants-Outfit-for-Women.jpg",
-            "rating": 4.5,
-            "quantity": 1
-        },
-        {
             "_id": 13,
             "title": "Classic Grey Suit",
             "isNew": true,
