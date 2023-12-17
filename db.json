@@ -14,18 +14,6 @@
         },
         {
             "_id": 2,
-            "title": "Corduroy Jacket",
-            "isNew": true,
-            "oldPrice": "740",
-            "price": 690,
-            "description": "The Corduroy jacket often features a classic, timeless design. It might have a pointed collar, button-up or zippered front closure, and functional pockets, combining practicality with a fashionable look.",
-            "category": "Men",
-            "image": "https://media.zenfs.com/en/spy_453/4eb07815aba791708242443d4190bf33",
-            "rating": 3.7,
-            "quantity": 1
-        },
-        {
-            "_id": 3,
             "title": "Low Rise Y2K Jeans",
             "isNew": true,
             "oldPrice": "650",
@@ -37,7 +25,7 @@
             "quantity": 1
         },
         {
-            "_id": 4,
+            "_id": 3,
             "title": "Graphic Top",
             "isNew": true,
             "oldPrice": "400",
@@ -49,7 +37,7 @@
             "quantity": 1
         },
         {
-            "_id": 5,
+            "_id": 4,
             "title": "Baggy Faded Jeans",
             "isNew": true,
             "oldPrice": "700",
@@ -61,7 +49,7 @@
             "quantity": 1
         },
         {
-            "_id": 6,
+            "_id": 5,
             "title": "Chic Black leather pants ",
             "isNew": true,
             "oldPrice": "650",
@@ -73,7 +61,7 @@
             "quantity": 1
         },
         {
-            "_id": 7,
+            "_id": 6,
             "title": "Classic Black High Heels",
             "isNew": true,
             "oldPrice": "700",
@@ -85,7 +73,7 @@
             "quantity": 1
         },
         {
-            "_id": 8,
+            "_id": 7,
             "title": "Cream beige reversible trench coat ",
             "isNew": true,
             "oldPrice": "800",
@@ -97,7 +85,7 @@
             "quantity": 1
         },
         {
-            "_id": 9,
+            "_id": 8,
             "title": "Cozy Sherpa jacket ",
             "isNew": true,
             "oldPrice": "750",
@@ -109,7 +97,7 @@
             "quantity": 1
         },
         {
-            "_id": 10,
+            "_id": 9,
             "title": "Chic Leather Crossbody Bag",
             "isNew": false,
             "oldPrice": "699",
@@ -121,7 +109,7 @@
             "quantity": 1
         },
         {
-            "_id": 11,
+            "_id": 10,
             "title": "Black faux fur bucket hat",
             "isNew": true,
             "oldPrice": "300",
@@ -133,7 +121,7 @@
             "quantity": 1
         },
         {
-            "_id": 12,
+            "_id": 11,
             "title": "Classy black formal shirt ",
             "isNew": true,
             "oldPrice": "500",
@@ -145,7 +133,7 @@
             "quantity": 1
         },
         {
-            "_id": 13,
+            "_id": 12,
             "title": "Men's Classic Leather Boots",
             "isNew": true,
             "oldPrice": "1845",
@@ -157,7 +145,7 @@
             "quantity": 1
         },
         {
-            "_id": 14,
+            "_id": 13,
             "title": "Vintage Lace-Up Corset",
             "isNew": true,
             "oldPrice": "799",
@@ -169,7 +157,7 @@
             "quantity": 1
         },
         {
-            "_id": 15,
+            "_id": 14,
             "title": "Classic Grey Suit",
             "isNew": true,
             "oldPrice": "2500",
@@ -183,7 +171,7 @@
     ],
     "trending": [
         {
-            "_id": 3,
+            "_id": 2,
             "title": "Low Rise Y2K Jeans",
             "isNew": true,
             "oldPrice": "650",
@@ -195,7 +183,7 @@
             "quantity": 1
         },
         {
-            "_id": 6,
+            "_id": 5,
             "title": "Chic Black leather pants ",
             "isNew": true,
             "oldPrice": "650",
@@ -207,7 +195,7 @@
             "quantity": 1
         },
         {
-            "_id": 15,
+            "_id": 14,
             "title": "Classic Grey Suit",
             "isNew": true,
             "oldPrice": "2500",
